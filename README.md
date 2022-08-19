@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @2-daddy
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+2-daddy/2-daddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+---> i am back beta 
+Papa aa gye hai 
+Ab tu gya ❌
+
